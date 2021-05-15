@@ -8,4 +8,4 @@ Pranav Chundi
 --- 
 _Captain_
 
-Insert information about who we are. Make sure to include image of robot here in background.
+Pranav is a junior at Edison High School STEM Academy. He is the captain and founder of the robotics team. He leads the building and the programming parts of the robot. 

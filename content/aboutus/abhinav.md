@@ -9,4 +9,5 @@ Abhinav Arya
 _Vice Captain_
 
 
-Insert information about abhinav, image of him in background. 
+Abhinav is a junior at the Edison High School STEM Academy. He is the vice-captain of the robotics team. He also builds and programs the robot. 
+ 
