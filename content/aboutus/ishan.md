@@ -8,4 +8,4 @@ Ishan Arya
 --- 
 _Mentor_
 
-Insert information about who we are. Make sure to include image of robot here in background.
+Ishan Arya is a computer science major at the Georgia Institute of Technology. His role at the club is to help program the robot and manipulate the necessary software components. 
