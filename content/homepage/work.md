@@ -9,5 +9,5 @@ At Team Faraday, we are a first year robotics team based out of Edison, NJ. We a
 
 Sponsor Us!
 ---
-As we do not have a concrete source of funding, we appreciate any donations. Please direct all donations to teamfaraday@gmail.com. Otherwise, provide a check directed to Edison High School. The address is 50 Boulevard of the Eagles, Edison, NJ, 08817
+As we do not have a concrete source of funding, we appreciate any donations. Please direct all donations to teamfaraday@gmail.com. 
 
