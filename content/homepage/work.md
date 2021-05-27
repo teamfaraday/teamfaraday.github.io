@@ -9,5 +9,5 @@ At Team Faraday, we are a first year robotics team based out of Edison, NJ. We a
 
 Sponsor Us!
 ---
-As we do not have a concrete source of funding, we appreciate any donations. Please direct all donations to teamfaraday@gmail.com. 
+As we do not have a concrete source of funding, we appreciate any donations. Please direct all donations to robotfaraday@gmail.com. 
 
