@@ -24,8 +24,8 @@ theme = "hugo-hero-theme"
     weight = 2
 
 [[menu.main]]
-    name = "Resources"
-    url = "/resource/"
+    name = "Robot Images"
+    url = "/robotimages/"
     weight = 2
 
 [[menu.main]]
