@@ -29,8 +29,8 @@ theme = "hugo-hero-theme"
     weight = 2
 
 [[menu.main]]
-    name = "Contact Us"
-    url = "/contact/"
+    name = "Hype Video"
+    url = "/video/"
     weight = 2
 
 [permalinks]
